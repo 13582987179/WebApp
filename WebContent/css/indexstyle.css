@@ -1,0 +1,29 @@
+﻿
+
+body{ background-color:#f6f2e8;}
+img{ border:0;} 
+li{ list-style:none;} 
+.top{ height:135px; background-image:url("../images/topBg.jpg");}
+.top .topBox{width:900px; margin:0 auto; overflow:hidden;}
+.top .nav .navBox{ width:900px; margin:0 0 0 300px; float:left;font-size:30px;}
+.top .nav .span .nav_r{float:right;font-size:20px; margin:0 0 5px 0;}
+.logo{ float:left; margin-top:26px; margin-left:220px;}
+.nav{ height:50px; background-image:url(../images/navBg.jpg);}
+
+.paragrah{ width:1000px;margin:100px 0 0 240px; }
+.paragrah h1{font-size:45px;}
+.paragrah span {font-size:30px;margin-left:5px;}
+.paragrah p{line-height:30px;text-indent:2em;}
+ img{ padding-top:20px; border-bottom:1px dotted #ccc}
+ a{ text-decoration:none; font-weight:bold;  line-height:53px; margin-left:15px;color:#7127A7;}
+ a:hover{ color:#c40000;}
+ h1{  font-size:18px; text-align:center; line-height:30px;}
+.img2{
+float:right;
+width:20%;
+height:20%;
+margin-left:6px;
+}
+.zh{
+	text-align:center;
+}
